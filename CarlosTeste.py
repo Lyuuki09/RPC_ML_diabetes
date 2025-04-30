@@ -20,4 +20,4 @@ modelo.fit(X_train, y_train)
 # Salva o modelo treinado
 joblib.dump(modelo, "modelo_diabetes_kaggle.joblib")
 
-print("Modelo treinado com sucesso com os dados do Kaggle!")
+print("Modelo treinado com sucesso!")
